@@ -1,0 +1,14 @@
+/Users/nastuskasabanova/Documents/proekt/bin/Debug/net10.0/proekt
+/Users/nastuskasabanova/Documents/proekt/bin/Debug/net10.0/proekt.deps.json
+/Users/nastuskasabanova/Documents/proekt/bin/Debug/net10.0/proekt.runtimeconfig.json
+/Users/nastuskasabanova/Documents/proekt/bin/Debug/net10.0/proekt.dll
+/Users/nastuskasabanova/Documents/proekt/bin/Debug/net10.0/proekt.pdb
+/Users/nastuskasabanova/Documents/proekt/obj/Debug/net10.0/proekt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nastuskasabanova/Documents/proekt/obj/Debug/net10.0/proekt.AssemblyInfoInputs.cache
+/Users/nastuskasabanova/Documents/proekt/obj/Debug/net10.0/proekt.AssemblyInfo.cs
+/Users/nastuskasabanova/Documents/proekt/obj/Debug/net10.0/proekt.csproj.CoreCompileInputs.cache
+/Users/nastuskasabanova/Documents/proekt/obj/Debug/net10.0/proekt.dll
+/Users/nastuskasabanova/Documents/proekt/obj/Debug/net10.0/refint/proekt.dll
+/Users/nastuskasabanova/Documents/proekt/obj/Debug/net10.0/proekt.pdb
+/Users/nastuskasabanova/Documents/proekt/obj/Debug/net10.0/proekt.genruntimeconfig.cache
+/Users/nastuskasabanova/Documents/proekt/obj/Debug/net10.0/ref/proekt.dll
