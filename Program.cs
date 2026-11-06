@@ -26,7 +26,7 @@ while (choice != 0)
     }
     else if (choice == 3)
     {
-        Console.WriteLine("Количество песен: " + kolichestvo);
+        Console.WriteLine($"Количество песен: {kolichestvo}");
     }
     else if (choice == 4)
     {
@@ -79,20 +79,15 @@ void FindSong()
 {
     Console.Write("Введите название песни: ");
     string name = Console.ReadLine();
-
-    int naideno = 0;
-
     for (int i = 0; i < kolichestvo; i++)
     {
         if (songs[i] == name)
         {
-            Console.WriteLine("Песня найдена!");
-            naideno = 1;
+            Console.WriteLine($"Песня {name} найдена в плейлисте!");
         }
-    }
-
-    if (naideno == 0)
-    {
-        Console.WriteLine("Песня не найдена.");
+        else
+        {
+            Console.WriteLine("Песня не найдена.");
+        }
     }
 }

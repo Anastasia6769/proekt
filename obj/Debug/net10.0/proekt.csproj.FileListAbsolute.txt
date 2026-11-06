@@ -12,3 +12,4 @@
 /Users/nastuskasabanova/Documents/proekt/obj/Debug/net10.0/proekt.pdb
 /Users/nastuskasabanova/Documents/proekt/obj/Debug/net10.0/proekt.genruntimeconfig.cache
 /Users/nastuskasabanova/Documents/proekt/obj/Debug/net10.0/ref/proekt.dll
+/Users/nastuskasabanova/Documents/proekt/obj/Debug/net10.0/proekt.sourcelink.json
