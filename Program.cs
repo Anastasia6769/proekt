@@ -14,7 +14,7 @@ while (choice != 0)
     Console.WriteLine("0. Выход");
 
     Console.Write("Выберите действие: ");
-    choice = Convert.ToInt32(Console.ReadLine());
+    choice = int.Parse(Console.ReadLine());
 
     if (choice == 1)
     {
